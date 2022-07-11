@@ -15,6 +15,7 @@ print("Hi!")
 print("Hello, world!")
 
 
+
 ## ----datatypes----------------------------------------------------------------
 animals  <- c("mouse", "rat", "dog", "cat")
 weight_g <- c(50, 60, 65, 82)
