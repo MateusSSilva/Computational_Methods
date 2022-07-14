@@ -16,3 +16,5 @@ project/
 *    └── README.md
 ```
 In the `R` directory you will find the scripts. Let's start using R!
+
+Now we are leaning how to use R, since data analysis to plot images.
