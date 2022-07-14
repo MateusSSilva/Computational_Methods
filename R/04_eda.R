@@ -85,7 +85,7 @@ par(mfrow = c(2, 2))
 hist(iris$Sepal.Length)
 hist(iris$Sepal.Width)
 hist(iris$Petal.Length)
-hist(iris$Petal.Length)
+hist(iris$Petal.Width)
 par(mfrow = c(1, 1))
 
 par(mfrow = c(1, 2))
@@ -155,6 +155,7 @@ qqline(iris$Sepal.Length[iris$Species == "versicolor"])
 qqnorm(iris$Sepal.Length[iris$Species == "virginica"],
        main = "virginica")
 qqline(iris$Sepal.Length[iris$Species == "virginica"])
+
 par(mfrow = c(1, 1))
 
 
